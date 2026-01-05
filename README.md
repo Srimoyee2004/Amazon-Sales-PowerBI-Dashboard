@@ -1,9 +1,9 @@
-📊 Amazon Sales Power BI Dashboard
-📌 Project Overview
+📊 **Amazon Sales Power BI Dashboard**
+📌 **Project Overview**
 
 This project focuses on transforming raw Amazon sales data into actionable business insights using Power BI. The dashboard enables analysis of sales performance, profitability, customer segments, shipping behavior, and regional trends.
 
-🎯 Objective
+**🎯 Objective**
 
 Analyze sales and profit trends
 
@@ -37,7 +37,7 @@ Average Delivery Days: 3.93
 
 Return Rate: 0.01
 
-🔍 Key Insights
+**🔍 Key Insights**
 
 Consumer segment contributes the highest share of sales and profit
 
@@ -59,5 +59,7 @@ Performance tuning for large datasets
 
 Delivered a clean, interactive dashboard that enables quick business-level analysis and supports data-driven decision-making.
 
-📸 Dashboard Preview
+### 📸 Dashboard Preview
+![Dashboard Preview](dashboard_preview.png)
+
 
