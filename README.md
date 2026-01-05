@@ -13,7 +13,7 @@ Evaluate shipping efficiency and return behavior
 
 Present insights through an interactive dashboard for decision-making
 
-🛠 Tools & Technologies
+**🛠 Tools & Technologies**
 
 Power BI
 
@@ -23,7 +23,7 @@ CSV Dataset
 
 Data Cleaning & Visualization
 
-📈 Key KPIs Tracked
+**📈 Key KPIs Tracked**
 
 Total Sales: 1.57M
 
@@ -47,7 +47,7 @@ Very low return rate indicates good customer satisfaction
 
 Technology category drives high revenue while Office Supplies show stable profit
 
-⚠ Challenges Faced
+**⚠ Challenges Faced**
 
 Data cleaning and consistency issues
 
@@ -55,7 +55,7 @@ KPI selection and dashboard layout optimization
 
 Performance tuning for large datasets
 
-✅ Outcome
+**✅ Outcome**
 
 Delivered a clean, interactive dashboard that enables quick business-level analysis and supports data-driven decision-making.
 
